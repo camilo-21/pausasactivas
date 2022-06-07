@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(87, 86, 86);
 }
 
 nav.navbar {
@@ -10,10 +10,21 @@ nav.navbar {
 
 img {
     width: 250px;
-    text-align: center;
+
+    
 }
+
 
 .carousel-inner img {
     width: 100%;
     height: 100%;
 }
+
+h3{
+    color: aqua;
+    text-align: center;
+}
+
+ol {
+    list-style-type: lower-roman;
+  }
