@@ -1,7 +1,19 @@
-#logo{
-    width: 190px;
+body{
+    background-color: black;
 }
 
-nav{
-    background: linear-gradient(#000000,#fdfdfd 130%); 
+nav.navbar {
+    background-color: black;
+    color: aqua;
+    overflow: hidden;
+}
+
+img {
+    width: 250px;
+    text-align: center;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
 }
